@@ -1,0 +1,5 @@
+query = {
+    "level": level,
+    "file_path": "error.log",  # Provide the correct file path here
+    "timestamp": timestamp
+}

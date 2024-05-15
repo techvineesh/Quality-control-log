@@ -1,0 +1,15 @@
+{
+  "log1": {
+    "level": "info",
+    "file_path": "log1.log"
+  },
+  "log2": {
+    "level": "error",
+    "file_path": "log2.log"
+  },
+  "log3": {
+    "level": "info",
+    "file_path": "log3.log"
+  }
+}
+{"level": "error", "log_string": "Inside the Search API", "metadata": {"source": "log3.log"}, "timestamp": "2024-05-15T03:31:01.713864"}

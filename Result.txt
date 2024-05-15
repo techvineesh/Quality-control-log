@@ -1,0 +1,16 @@
+Log Query Interface
+--------------------
+
+Enter your search criteria:
+Level (info/error/success): error
+Source (log file): log1.log
+Timestamp (YYYY-MM-DD HH:MM:SS): 2024-05-14 T06:40:00Z
+
+Searching logs...
+
+Results:
+{"level": "error", "log_string": "Inside the Search API", "timestamp": "2024-05-14 T06:40:00Z
+", "metadata": {"source": "log1.log"}}
+{"level": "error", "log_string": "Error encountered in Module XYZ", "timestamp": "2024-05-14 T06:40:00Z
+", "metadata": {"source": "log1.log"}}
+...
