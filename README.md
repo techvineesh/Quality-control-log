@@ -22,6 +22,13 @@ This project consists of two main components:
   - Offers a user-friendly CLI for log search.
   - Allows filtering based on log level, source, and timestamp.
   - Efficient search algorithm for quick results.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your system.
+### Usage of files
 Usage
 Log Ingestor:
 
@@ -42,13 +49,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 This project was inspired by [insert inspiration here].
 Special thanks to [insert contributor names here] for their contributions.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x installed on your system.
-
 ### Installation
 
 1. Clone the repository:
