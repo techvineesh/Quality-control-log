@@ -22,22 +22,6 @@ This project consists of two main components:
   - Offers a user-friendly CLI for log search.
   - Allows filtering based on log level, source, and timestamp.
   - Efficient search algorithm for quick results.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x installed on your system.
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your_username/log-query-interface.git
-cd log-query-interface
-
-Replace placeholders like `your_username`, `your_project_name`, and `[insert ... here]` with appropriate values relevant to your project. You can also customize and expand upon this template as needed to provide more detailed information about your project.
 Usage
 Log Ingestor:
 
@@ -58,3 +42,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 This project was inspired by [insert inspiration here].
 Special thanks to [insert contributor names here] for their contributions.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your system.
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your_username/log-query-interface.git
+cd log-query-interface
+
+Replace placeholders like `your_username`, `your_project_name`, and `[insert ... here]` with appropriate values relevant to your project. You can also customize and expand upon this template as needed to provide more detailed information about your project.
